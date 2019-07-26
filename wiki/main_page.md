@@ -8,12 +8,12 @@ River Architect
 
 ***
 
-![raillu](https://github.com/RiverArchitect/Welcome/raw/master/images/RA_welcome.png)
+![raillu](https://github.com/RiverArchitect/Media/raw/master/images/RA_welcome.png)
 <br/>
 
 
 
-[River Architect](https://github.com/RiverArchitect/Welcome/raw/master/docs/RiverArchitect.pdf) is a Python3-based open-source code that supports river designers with a set of GUI modules. Sample data can be downloaded [here](https://github.com/RiverArchitect/SampleData/archive/master.zip). The current core functionalities are:
+[River Architect](https://github.com/RiverArchitect/Media/raw/master/docs/RiverArchitect.pdf) is a Python3-based open-source code that supports river designers with a set of GUI modules. Sample data can be downloaded [here](https://github.com/RiverArchitect/SampleData/archive/master.zip). The current core functionalities are:
 
  * Lifespan mapping of stream design features according to [Schwindt et al. (2019)][1] with the [LifespanDesign](https://riverarchitect.github.io/RA_wiki/LifespanDesign) and [MaxLifespan](https://riverarchitect.github.io/RA_wiki/MaxLifespan) modules.   
 
@@ -71,7 +71,7 @@ Please note that *River Architect* has undergone important changes since the las
 
 ***
 
-An overview presentation can be downloaded [here](https://github.com/RiverArchitect/Welcome/raw/master/docs/RiverArchitect.pdf). The usage of River Architect is described in the [*River Architect*'s Wiki][3].
+An overview presentation can be downloaded [here](https://github.com/RiverArchitect/Media/raw/master/docs/RiverArchitect.pdf). The usage of River Architect is described in the [*River Architect*'s Wiki][3].
 
 
 # About
@@ -90,7 +90,7 @@ terraforming planning, and migrating to QGIS's Python core.
 
 Do not hesitate to contact river.architect.program [at] gmail.com for reporting bugs, suggestions, or any feedback.
 
-Bug reports, feature requests and pull requests are welcome ([submit here](https://github.com/RiverArchitect/Welcome).
+Bug reports, feature requests and pull requests are welcome ([submit here](https://github.com/RiverArchitect/Media).
 
 # Acknowledgment
 
