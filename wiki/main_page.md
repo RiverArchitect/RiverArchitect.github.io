@@ -51,16 +51,17 @@ The robust version:
  1. Follow the detailed [Installation][6] instructions for setting up the Environment.
  1. Read the [Signposts][7] to learn about the terminology used in *River Architect* and create river [*Conditions*](https://riverarchitect.github.io/RA_wiki/Signposts#new-condition) with the [GetStarted](https://riverarchitect.github.io/RA_wiki/Signposts#getstarted) module to start analyses. 
  1. The application of *River Architect*'s modules are described on their Wiki pages:
-   - Lifespan mapping<br/>
-	* [Lifespan and Design map creation](https://riverarchitect.github.io/RA_wiki/LifespanDesign)<br/>
+ 
+ - Lifespan mapping
+	* [Lifespan and Design map creation](https://riverarchitect.github.io/RA_wiki/LifespanDesign)
    	* [Best Lifespan identification](https://riverarchitect.github.io/RA_wiki/MaxLifespan)
-   - Terraforming<br/>
-   	* [ModifyTerrain](https://riverarchitect.github.io/RA_wiki/ModifyTerrain)<br/>
+ - Terraforming
+   	* [ModifyTerrain](https://riverarchitect.github.io/RA_wiki/ModifyTerrain)
    	* [Volume Assessment (earthworks)](https://riverarchitect.github.io/RA_wiki/VolumeAssessment)
-   - Eco-Morphology<br/>
-   	* [SHArC (Seasonal Habitat Area Calculator)](https://riverarchitect.github.io/RA_wiki/SHArC)<br/>
+ - Eco-Morphology
+   	* [SHArC (Seasonal Habitat Area Calculator)](https://riverarchitect.github.io/RA_wiki/SHArC)
    	* [Connectivity Analyses](https://riverarchitect.github.io/RA_wiki/Connectivity)
-   - [ProjectMaker](https://riverarchitect.github.io/RA_wiki/ProjectMaker)
+ - [ProjectMaker](https://riverarchitect.github.io/RA_wiki/ProjectMaker)
 
 
 In addition to the module descriptions, the [*River Architect* Wiki](https://riverarchitect.github.io/RA_wiki/main_page) also provides detailed solutions for [Troubleshooting](https://riverarchitect.github.io/RA_wiki/Troubleshooting).
