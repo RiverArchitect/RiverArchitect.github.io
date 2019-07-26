@@ -44,10 +44,10 @@ The quick version: Download [River Architect][5] and double-click on [Start_Rive
 
 The robust version:
 
- 1. Download the program file directory from [GitHub][2] (or [sample data][4]). 
- 1. Follow the detailed [Installation][6] instructions for setting up the Environment.
- 1. Read the [Signposts][7] to learn about the terminology used in *River Architect* and create river [*Conditions*](https://riverarchitect.github.io/RA_wiki/Signposts#new-condition) with the [GetStarted](https://riverarchitect.github.io/RA_wiki/Signposts#getstarted) module to start analyses. 
- 1. The application of *River Architect*'s modules are described on their Wiki pages:
+1. Download the program file directory from [GitHub][2] (or [sample data][4]). 
+1. Follow the detailed [Installation][6] instructions for setting up the Environment.
+1. Read the [Signposts][7] to learn about the terminology used in *River Architect* and create river [*Conditions*](https://riverarchitect.github.io/RA_wiki/Signposts#new-condition) with the [GetStarted](https://riverarchitect.github.io/RA_wiki/Signposts#getstarted) module to start analyses. 
+1. The application of *River Architect*'s modules are described on their Wiki pages:
  
  - Lifespan mapping: 
    	+ [Lifespan and Design](https://riverarchitect.github.io/RA_wiki/LifespanDesign) map creation
