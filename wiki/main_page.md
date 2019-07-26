@@ -32,11 +32,8 @@ River Architect
 ***
 
  * Digital terrain elevation models (DEMs).
-
  * 2D hydrodynamic modeling of multiple steady flow scenarios.
-
  * Esri's *ArcPro* *Python* environment with *SpatialAnalyst* license (Windows only).
-
 
 
 # Installation and Quick Usage (short version)
@@ -52,22 +49,19 @@ The robust version:
  1. Read the [Signposts][7] to learn about the terminology used in *River Architect* and create river [*Conditions*](https://riverarchitect.github.io/RA_wiki/Signposts#new-condition) with the [GetStarted](https://riverarchitect.github.io/RA_wiki/Signposts#getstarted) module to start analyses. 
  1. The application of *River Architect*'s modules are described on their Wiki pages:
  
- - Lifespan mapping
- 
-	* [Lifespan and Design map creation](https://riverarchitect.github.io/RA_wiki/LifespanDesign)
-   	* [Best Lifespan identification](https://riverarchitect.github.io/RA_wiki/MaxLifespan)
+ - Lifespan mapping: 
+   	+ [Lifespan and Design](https://riverarchitect.github.io/RA_wiki/LifespanDesign) map creation
+   	+ [Best Lifespan](https://riverarchitect.github.io/RA_wiki/MaxLifespan) identification
 
- - Terraforming
- 
-   	* [ModifyTerrain](https://riverarchitect.github.io/RA_wiki/ModifyTerrain)
-   	* [Volume Assessment (earthworks)](https://riverarchitect.github.io/RA_wiki/VolumeAssessment)
+ - Terraforming: 
+   	+ [Modify Terrain](https://riverarchitect.github.io/RA_wiki/ModifyTerrain) with thresholds or [RiverBuilder](http://pasternack.ucdavis.edu/research/model-codes/river-builder)
+   	+ [Volume Assessment](https://riverarchitect.github.io/RA_wiki/VolumeAssessment) of terraforming (earthworks)
 
- - Eco-Morphology
- 
-   	* [SHArC (Seasonal Habitat Area Calculator)](https://riverarchitect.github.io/RA_wiki/SHArC)
-   	* [Connectivity Analyses](https://riverarchitect.github.io/RA_wiki/Connectivity)
+ - Eco-Morphology: 
+   	+ [Seasonal Habitat Area Calcluator](https://riverarchitect.github.io/RA_wiki/SHArC) (SHArC)
+   	+ Habitat [Connectivity](https://riverarchitect.github.io/RA_wiki/Connectivity) Analyses
 
- - [ProjectMaker](https://riverarchitect.github.io/RA_wiki/ProjectMaker)
+ - [Project Maker](https://riverarchitect.github.io/RA_wiki/ProjectMaker) for cost-benefit analysis
  
 
 
