@@ -53,15 +53,22 @@ The robust version:
  1. The application of *River Architect*'s modules are described on their Wiki pages:
  
  - Lifespan mapping
+ 
 	* [Lifespan and Design map creation](https://riverarchitect.github.io/RA_wiki/LifespanDesign)
    	* [Best Lifespan identification](https://riverarchitect.github.io/RA_wiki/MaxLifespan)
+
  - Terraforming
+ 
    	* [ModifyTerrain](https://riverarchitect.github.io/RA_wiki/ModifyTerrain)
    	* [Volume Assessment (earthworks)](https://riverarchitect.github.io/RA_wiki/VolumeAssessment)
+
  - Eco-Morphology
+ 
    	* [SHArC (Seasonal Habitat Area Calculator)](https://riverarchitect.github.io/RA_wiki/SHArC)
    	* [Connectivity Analyses](https://riverarchitect.github.io/RA_wiki/Connectivity)
+
  - [ProjectMaker](https://riverarchitect.github.io/RA_wiki/ProjectMaker)
+ 
 
 
 In addition to the module descriptions, the [*River Architect* Wiki](https://riverarchitect.github.io/RA_wiki/main_page) also provides detailed solutions for [Troubleshooting](https://riverarchitect.github.io/RA_wiki/Troubleshooting).
