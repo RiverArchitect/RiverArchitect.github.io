@@ -25,7 +25,7 @@ git_branch: "master"
 # (string) Url of logo image, it can be full, absolute or relative.
 logo_url: https://github.com/RiverArchitect/Welcome/raw/master/images/RA_icon.png
 # (string) The UA-XXXXX-Y code from google analytic to enable GA on your wiki
-google_analytics: google75c1f4a6bd62b782
+google_analytics: UA-144637062-1
 # (string) folder where wiki pages are stored, it's needed for tool buttons
 wiki_folder: wiki
 # (boolean) if you're using github wiki as submodule then this config
@@ -59,7 +59,7 @@ markdown: kramdown
 highlighter: rouge
 kramdown:
   input: GFM
-  syntax_highlighter: blue
+  syntax_highlighter: rouge
 
 defaults:
  - 
