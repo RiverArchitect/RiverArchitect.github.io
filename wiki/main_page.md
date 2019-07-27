@@ -13,7 +13,7 @@ River Architect
 
 
 
-[River Architect](https://github.com/RiverArchitect/Media/raw/master/docs/RiverArchitect.pdf) is a Python3-based open-source code that supports river designers with a set of GUI modules. Sample data can be downloaded [here](https://github.com/RiverArchitect/SampleData/archive/master.zip). The current core functionalities are:
+[River Architect](https://github.com/RiverArchitect/Media/raw/master/docs/RiverArchitect.pdf) is a Python3-based open-source code that supports river designers with a set of GUI modules. Sample data can be downloaded [here](https://github.com/RiverArchitect/SampleData/archive/master.zip). The core functionalities are:
 
  * Lifespan mapping of stream design features according to [Schwindt et al. (2019)][1] with the [LifespanDesign](https://riverarchitect.github.io/RA_wiki/LifespanDesign) and [MaxLifespan](https://riverarchitect.github.io/RA_wiki/MaxLifespan) modules.   
 
@@ -33,7 +33,7 @@ River Architect
 
  * Digital terrain elevation models (DEMs).
  * 2D hydrodynamic modeling of multiple steady flow scenarios.
- * Esri's *ArcPro* *Python* environment with *SpatialAnalyst* license (Windows only).
+ * Esri's *ArcGIS Pro* *Python* environment with *SpatialAnalyst* license (Windows only).
 
 
 # Installation and Quick Usage (short version)
@@ -44,7 +44,7 @@ The quick version: Download [River Architect][5] and double-click on [Start_Rive
 
 The robust version:
 
-1. Download the program file directory from [GitHub][2] (or [sample data][4]). 
+1. Download the program file directory from [GitHub][2] ([click here to download sample *Condition* data][4]). 
 1. Follow the detailed [Installation][6] instructions for setting up the Environment.
 1. Read the [Signposts][7] to learn about the terminology used in *River Architect* and create river [*Conditions*](https://riverarchitect.github.io/RA_wiki/Signposts#new-condition) with the [GetStarted](https://riverarchitect.github.io/RA_wiki/Signposts#getstarted) module to start analyses. 
 1. The application of *River Architect*'s modules are described on their Wiki pages: 
@@ -103,7 +103,7 @@ Bug reports, feature requests and pull requests are welcome ([submit here](https
 [1]: https://www.sciencedirect.com/science/article/pii/S0301479718312751 "Lifespan mapping"
 [2]: https://github.com/riverarchitect/program
 [3]: https://riverarchitect.github.io/RA_wiki/
-[4]: https://www.dropbox.com/s/pv9n2y0nmulidme/RiverArchitect_with_Example.zip?dl=0
+[4]: https://github.com/RiverArchitect/SampleData/archive/master.zip
 [5]: https://github.com/riverarchitect/program/archive/master.zip
 [6]: https://riverarchitect.github.io/RA_wiki/Installation
 [7]: https://riverarchitect.github.io/RA_wiki/Signposts
