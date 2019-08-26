@@ -42,7 +42,7 @@ River Architect
 
 The quick version: Download [River Architect][5], unzip the downloaded files, and double-click on [Start_River_Architect.bat][1]. Modifications of the batchfile might be required, for example, to fit the conda environment. The standard environment is `"%PROGRAMFILES%\ArcGIS\Pro\bin\Python\Scripts\propy"`, which typically refers to `"C:\Program Files\ArcGIS\Pro\bin\Python\scripts\propy.bat"`. ArcGIS provides more information on running stand-alone Python scripts on their [website](https://pro.arcgis.com/en/pro-app/arcpy/get-started/using-conda-with-arcgis-pro.htm).
 
-The robust version: **Follow the detailed instructions in the [Wiki](https://riverarchitect.github.io/RA_wiki/Installation#started)**.
+The robust version: **Follow the [Wiki](https://riverarchitect.github.io/RA_wiki/Installation#started)'s detailed instructions for [installing](https://riverarchitect.github.io/RA_wiki/Installation#git_install_ra), [updating](https://riverarchitect.github.io/RA_wiki/Installation#update_ra), and [launching](https://riverarchitect.github.io/RA_wiki/Installation#launch_ra) *River Architect*.**
 
 
 
