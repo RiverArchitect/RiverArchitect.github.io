@@ -22,7 +22,7 @@ River Architect
  * Evaluate ecohydraulic and morphological site and river assets within the Eco-Morphology modules for [calculating Seasonal Habitat Area](https://riverarchitect.github.io/RA_wiki/SHArC) and optimizing [habitat connectivity](https://riverarchitect.github.io/RA_wiki/Connectivity).
 
  * Generate construction plans, cost estimates, and variant efficiency metrics with the [ProjectMaker](https://riverarchitect.github.io/RA_wiki/ProjectMaker) module.
- 
+
  * Produce high-quality maps with *River Architect*'s built-in [Mapping routines](https://riverarchitect.github.io/RA_wiki/Mapping).
 
 
@@ -40,36 +40,17 @@ River Architect
 
 ***
 
-The quick version: Download [River Architect][5] and double-click on [Start_River_Architect.bat][1]. Modifications of the batchfile might be required, for example, to fit the conda environment. The standard environment is `"%PROGRAMFILES%\ArcGIS\Pro\bin\Python\Scripts\propy"`, which typically refers to `"C:\Program Files\ArcGIS\Pro\bin\Python\scripts\propy.bat"`. ArcGIS provides more information on running stand-alone Python scripts on their [website](https://pro.arcgis.com/en/pro-app/arcpy/get-started/using-conda-with-arcgis-pro.htm).
+The quick version: Download [River Architect][5], unzip the downloaded files, and double-click on [Start_River_Architect.bat][1]. Modifications of the batchfile might be required, for example, to fit the conda environment. The standard environment is `"%PROGRAMFILES%\ArcGIS\Pro\bin\Python\Scripts\propy"`, which typically refers to `"C:\Program Files\ArcGIS\Pro\bin\Python\scripts\propy.bat"`. ArcGIS provides more information on running stand-alone Python scripts on their [website](https://pro.arcgis.com/en/pro-app/arcpy/get-started/using-conda-with-arcgis-pro.htm).
 
-The robust version:
-
-1. Download the program file directory from [GitHub][2] ([click here to download sample *Condition* data][4]). 
-1. Follow the detailed [Installation][6] instructions for setting up the Environment.
-1. Read the [Signposts][7] to learn about the terminology used in *River Architect* and create river [*Conditions*](https://riverarchitect.github.io/RA_wiki/Signposts#new-condition) with the [GetStarted](https://riverarchitect.github.io/RA_wiki/Signposts#getstarted) module to start analyses. 
-1. The application of *River Architect*'s modules are described on their Wiki pages: 
- - Lifespan mapping: 
-   	+ [Lifespan and Design](https://riverarchitect.github.io/RA_wiki/LifespanDesign) map creation
-   	+ [Best Lifespan](https://riverarchitect.github.io/RA_wiki/MaxLifespan) identification
- - Terraforming: 
-   	+ [Modify Terrain](https://riverarchitect.github.io/RA_wiki/ModifyTerrain) with thresholds or [RiverBuilder](http://pasternack.ucdavis.edu/research/model-codes/river-builder)
-   	+ [Volume Assessment](https://riverarchitect.github.io/RA_wiki/VolumeAssessment) of terraforming (earthworks)
- - Eco-Morphology: 
-   	+ [Seasonal Habitat Area Calcluator](https://riverarchitect.github.io/RA_wiki/SHArC) (SHArC)
-   	+ Habitat [Connectivity](https://riverarchitect.github.io/RA_wiki/Connectivity) Analyses
- - [Project Maker](https://riverarchitect.github.io/RA_wiki/ProjectMaker) for cost-benefit analysis
- 
+The robust version: **Follow the detailed instructions in the [Wiki](https://riverarchitect.github.io/RA_wiki/Installation#started)**.
 
 
-In addition to the module descriptions, the [*River Architect* Wiki](https://riverarchitect.github.io/RA_wiki/main_page) also provides detailed solutions for [Troubleshooting](https://riverarchitect.github.io/RA_wiki/Troubleshooting).
-
-Please note that *River Architect* has undergone important changes since the last stable Python2 version ([download last stable Python2-River-Architect][8]).
 
 # Documentation
 
 ***
 
-An overview presentation can be downloaded [here](https://github.com/RiverArchitect/Media/raw/master/docs/RiverArchitect.pdf). The usage of River Architect is described in the [*River Architect*'s Wiki][3].
+An overview presentation can be downloaded [here](https://github.com/RiverArchitect/Media/raw/master/docs/RiverArchitect.pdf). The usage of River Architect is described in the [*River Architect*'s Wiki][3]. [*River Architect*'s' Wiki](https://riverarchitect.github.io/RA_wiki/main_page) also provides detailed solutions for [Troubleshooting](https://riverarchitect.github.io/RA_wiki/Troubleshooting).
 
 
 # About
@@ -78,8 +59,23 @@ An overview presentation can be downloaded [here](https://github.com/RiverArchit
 
 The code was developed based on data from California's Yuba River and example results can be downloaded.
 
-Future developments will focus on improving the GUIs, developing the ModifyTerrain module for automating
-terraforming planning, and migrating to QGIS's Python core.
+Read the Wiki's [Signposts][7] to learn about the terminology used in *River Architect* and create river [*Conditions*](https://riverarchitect.github.io/RA_wiki/Signposts#new-condition) with the [GetStarted](https://riverarchitect.github.io/RA_wiki/Signposts#getstarted) module to start analyses. 
+
+*River Architect* comes with the following modules: 
+ - Lifespan mapping: 
+   	+ [Lifespan and Design](https://riverarchitect.github.io/RA_wiki/LifespanDesign) map creation
+      	+ [Best Lifespan](https://riverarchitect.github.io/RA_wiki/MaxLifespan) identification
+ - Morphology and Terraforming: 
+   	+ [Modify Terrain](https://riverarchitect.github.io/RA_wiki/ModifyTerrain) with thresholds or [RiverBuilder](http://pasternack.ucdavis.edu/research/model-codes/river-builder)
+      	+ [Volume Assessment](https://riverarchitect.github.io/RA_wiki/VolumeAssessment) of terraforming (earthworks)
+ - Ecohydraulics: 
+   	+ [Seasonal Habitat Area Calcluator](https://riverarchitect.github.io/RA_wiki/SHArC) (SHArC)
+      	+ Habitat [Connectivity](https://riverarchitect.github.io/RA_wiki/Connectivity) Analyses
+ - [Project Maker](https://riverarchitect.github.io/RA_wiki/ProjectMaker) for cost-benefit analysis.
+
+Please note that *River Architect* has undergone important changes since the release of the  last stable Python2 version ([download last stable Python2-River-Architect][8]).
+
+Future developments will focus on improving the GUIs, developing the ModifyTerrain module for automating terraforming planning, and migrating to QGIS's Python core.
 
 
 # Contributing
