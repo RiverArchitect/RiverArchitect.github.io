@@ -1,0 +1,22 @@
+---
+layout: default
+category: Services
+title: Documentation
+description: |
+---
+
+
+
+An overview presentation can be downloaded [here](https://github.com/RiverArchitect/Media/raw/master/docs/RiverArchitect.pdf). The usage of River Architect is described in the [*River Architect*'s Wiki][3]. [*River Architect*'s' Wiki](https://riverarchitect.github.io/RA_wiki/main_page) also provides detailed solutions for [Troubleshooting](https://riverarchitect.github.io/RA_wiki/Troubleshooting).
+
+
+
+[1]: https://www.sciencedirect.com/science/article/pii/S0301479718312751 "Lifespan mapping"
+[2]: https://github.com/riverarchitect/program
+[3]: https://riverarchitect.github.io/RA_wiki/
+[4]: https://github.com/RiverArchitect/SampleData/archive/master.zip
+[5]: https://github.com/riverarchitect/program/archive/master.zip
+[6]: https://riverarchitect.github.io/RA_wiki/Installation
+[7]: https://riverarchitect.github.io/RA_wiki/Signposts
+[8]: https://www.dropbox.com/s/8d6c096r4ouzxy2/RiverArchitect_Py2.zip?dl=0
+
