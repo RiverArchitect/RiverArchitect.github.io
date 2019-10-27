@@ -12,7 +12,7 @@ description: |
 
 Sample data can be downloaded [here](https://github.com/RiverArchitect/SampleData/archive/master.zip). The core functionalities are:
 
- * Lifespan mapping of stream design features according to [Schwindt et al. (2019)][1] with the [LifespanDesign](https://riverarchitect.github.io/RA_wiki/LifespanDesign) and [MaxLifespan](https://riverarchitect.github.io/RA_wiki/MaxLifespan) modules.   
+ * Lifespan mapping of river design features according to [Schwindt et al. (2019)][1] with the [LifespanDesign](https://riverarchitect.github.io/RA_wiki/LifespanDesign) and [MaxLifespan](https://riverarchitect.github.io/RA_wiki/MaxLifespan) modules.   
 
  * Terraforming concepts with the [ModifyTerrain](https://riverarchitect.github.io/RA_wiki/wiki/ModifyTerrain) module using threshold value-based DEM modifications or the sophisticated [River Builder](https://riverarchitect.github.io/RA_wiki/RiverBuilder).
 

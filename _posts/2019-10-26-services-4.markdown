@@ -8,23 +8,23 @@ description: |
 
 The code was developed based on data from California's Yuba River and example results can be downloaded.
 
-Read the Wiki's [Signposts][7] to learn about the terminology used in *River Architect* and create river [*Conditions*](https://riverarchitect.github.io/RA_wiki/Signposts#new-condition) with the [GetStarted](https://riverarchitect.github.io/RA_wiki/Signposts#getstarted) module to start analyses. 
+Read the [Get Started][7] Wiki  to learn about the terminology used in *River Architect* and create river [*Conditions*](https://riverarchitect.github.io/RA_wiki/Signposts#new-condition). 
 
 *River Architect* comes with the following modules: 
  - Lifespan mapping: 
-   	+ [Lifespan and Design](https://riverarchitect.github.io/RA_wiki/LifespanDesign) map creation
-      	+ [Best Lifespan](https://riverarchitect.github.io/RA_wiki/MaxLifespan) identification
+	+ [Lifespan and Design](https://riverarchitect.github.io/RA_wiki/LifespanDesign) map creation
+	+ [Best Lifespan](https://riverarchitect.github.io/RA_wiki/MaxLifespan) identification
  - Morphology and Terraforming: 
-   	+ [Modify Terrain](https://riverarchitect.github.io/RA_wiki/ModifyTerrain) with thresholds or [RiverBuilder](http://pasternack.ucdavis.edu/research/model-codes/river-builder)
-      	+ [Volume Assessment](https://riverarchitect.github.io/RA_wiki/VolumeAssessment) of terraforming (earthworks)
+	+ [Modify Terrain](https://riverarchitect.github.io/RA_wiki/ModifyTerrain) with thresholds or [RiverBuilder](http://pasternack.ucdavis.edu/research/model-codes/river-builder)
+	+ [Volume Assessment](https://riverarchitect.github.io/RA_wiki/VolumeAssessment) of terraforming (earthworks)
  - Ecohydraulics: 
-   	+ [Seasonal Habitat Area Calcluator](https://riverarchitect.github.io/RA_wiki/SHArC) (SHArC)
-      	+ Habitat [Connectivity](https://riverarchitect.github.io/RA_wiki/Connectivity) Analyses
+	+ [Seasonal Habitat Area Calcluator](https://riverarchitect.github.io/RA_wiki/SHArC) (SHArC)
+	+ Habitat [Connectivity](https://riverarchitect.github.io/RA_wiki/Connectivity) Analyses
  - [Project Maker](https://riverarchitect.github.io/RA_wiki/ProjectMaker) for cost-benefit analysis.
 
-Please note that *River Architect* has undergone important changes since the release of the  last stable Python2 version ([download last stable Python2-River-Architect][8]).
+An earlier Python2-version of *River Architect* [can be downloaded here][8](usage deprecated).
 
-Future developments will focus on improving the GUIs, developing the ModifyTerrain module for automating terraforming planning, and migrating to QGIS's Python core.
+Future developments will focus on improving the GUIs, developing active terraforming modules and re-writing geospatial analyses with the [`gdal` package](https://gdal.org/) to resolve license issues with `arcpy`.
 
 
 

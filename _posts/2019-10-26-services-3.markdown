@@ -8,7 +8,7 @@ description: |
 
 Do not hesitate to contact river.architect.program [at] gmail.com for reporting bugs, suggestions, or any feedback.
 
-Bug reports, feature requests and pull requests are welcome ([submit here](https://github.com/RiverArchitect/Media).
+Bug reports, feature requests and pull requests are welcome ([submit here](https://github.com/RiverArchitect/Media)).
 
 
 
