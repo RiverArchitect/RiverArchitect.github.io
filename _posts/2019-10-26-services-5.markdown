@@ -6,7 +6,6 @@ description: |
 ---
 
 
-
 An overview presentation can be downloaded [here](https://github.com/RiverArchitect/Media/raw/master/docs/RiverArchitect.pdf). The usage of River Architect is described in the [*River Architect*'s Wiki][3]. [*River Architect*'s' Wiki](https://riverarchitect.github.io/RA_wiki/main_page) also provides detailed solutions for [Troubleshooting](https://riverarchitect.github.io/RA_wiki/Troubleshooting).
 
 

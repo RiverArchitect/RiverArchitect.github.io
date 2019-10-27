@@ -5,9 +5,6 @@ title: Contributing
 description: |
 ---
 
-# Contributing
-
-***
 
 Do not hesitate to contact river.architect.program [at] gmail.com for reporting bugs, suggestions, or any feedback.
 
