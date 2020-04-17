@@ -19,7 +19,7 @@ Read the [Get Started][7] Wiki  to learn about the terminology used in *River Ar
 	+ [Volume Assessment](https://riverarchitect.github.io/RA_wiki/VolumeAssessment) of terraforming (earthworks)
  - Ecohydraulics: 
 	+ [Seasonal Habitat Area Calcluator](https://riverarchitect.github.io/RA_wiki/SHArC) (SHArC)
-	+ Habitat [Connectivity](https://riverarchitect.github.io/RA_wiki/Connectivity) Analyses
+	+ [Stranding Risk](https://riverarchitect.github.io/RA_wiki/StrandingRisk) Analyses
  - [Project Maker](https://riverarchitect.github.io/RA_wiki/ProjectMaker) for cost-benefit analysis.
 
 An earlier Python2-version of *River Architect* [can be downloaded here][8](usage deprecated).
