@@ -16,7 +16,7 @@ Sample data can be downloaded [here](https://github.com/RiverArchitect/SampleDat
 
  * Terraforming concepts with the [ModifyTerrain](https://riverarchitect.github.io/RA_wiki/wiki/ModifyTerrain) module using threshold value-based DEM modifications or the sophisticated [River Builder](https://riverarchitect.github.io/RA_wiki/RiverBuilder).
 
- * Evaluate ecohydraulic and morphological site and river assets within the Eco-Morphology modules for [calculating Seasonal Habitat Area](https://riverarchitect.github.io/RA_wiki/SHArC) and optimizing [habitat connectivity](https://riverarchitect.github.io/RA_wiki/Connectivity).
+ * Evaluate ecohydraulic and morphological site and river assets within the Eco-Morphology modules for [calculating Seasonal Habitat Area](https://riverarchitect.github.io/RA_wiki/SHArC) and optimizing habitat connectivity to mitigate [stranding risks](https://riverarchitect.github.io/RA_wiki/StrandingRisk).
 
  * Generate construction plans, cost estimates, and variant efficiency metrics with the [ProjectMaker](https://riverarchitect.github.io/RA_wiki/ProjectMaker) module.
 
