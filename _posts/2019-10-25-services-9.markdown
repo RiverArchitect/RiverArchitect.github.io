@@ -6,7 +6,7 @@ title: Welcome
 description: |
 ---
 
-[River Architect](https://github.com/RiverArchitect/Media/raw/master/docs/RiverArchitect.pdf) is a Python3-based open-source code that supports river designers with a set of GUI modules.
+[River Architect](https://github.com/RiverArchitect/Media/raw/master/docs/RiverArchitect.pdf) is written in Python3 as an open-source code to support river designers with a set of GUI modules.
 
 ![gui](https://raw.githubusercontent.com/RiverArchitect/Media/master/images/gui_start.PNG)
 
